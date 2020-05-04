@@ -1,0 +1,16 @@
+Package: mbpackage
+Title: This is a Test for State of the R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maelle",
+           family = "Beaudinet",
+           role = c("aut", "cre"),
+           email = "maelle.beaudinet@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: To learn how to create a package.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
