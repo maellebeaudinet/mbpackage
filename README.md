@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# mbpackage
+# mbpackage <img src='man/figures/logo.png' align="right" height="80" />
 
 <!-- badges: start -->
 
@@ -31,13 +31,3 @@ library(mbpackage)
 somme(2,8)
 #> [1] 10
 ```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub\!

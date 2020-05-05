@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# mbpackage
+# mbpackage <img src='man/figures/logo.png' align="right" height="80" />
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -42,12 +42,3 @@ library(mbpackage)
 somme(2,8)
 ```
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
